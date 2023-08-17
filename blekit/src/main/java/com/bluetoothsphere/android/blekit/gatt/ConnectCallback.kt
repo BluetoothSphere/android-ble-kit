@@ -1,4 +1,4 @@
-package com.bluetoothsphere.android.blekit.connect
+package com.bluetoothsphere.android.blekit.gatt
 
 import com.bluetoothsphere.android.blekit.peripheral.BlePeripheral
 

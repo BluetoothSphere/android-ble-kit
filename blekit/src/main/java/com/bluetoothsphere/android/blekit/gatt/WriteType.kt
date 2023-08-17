@@ -1,4 +1,4 @@
-package com.bluetoothsphere.android.blekit
+package com.bluetoothsphere.android.blekit.gatt
 
 import android.bluetooth.BluetoothGattCharacteristic
 

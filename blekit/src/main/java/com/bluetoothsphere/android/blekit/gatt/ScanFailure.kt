@@ -1,4 +1,4 @@
-package com.bluetoothsphere.android.blekit.connect
+package com.bluetoothsphere.android.blekit.gatt
 
 import android.bluetooth.le.ScanCallback
 

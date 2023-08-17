@@ -2,8 +2,8 @@ package com.bluetoothsphere.android.blekit.peripheral
 
 import android.bluetooth.BluetoothGattCharacteristic
 import android.bluetooth.BluetoothGattDescriptor
-import com.bluetoothsphere.android.blekit.connect.GattStatus
-import com.bluetoothsphere.android.blekit.connect.PhyType
+import com.bluetoothsphere.android.blekit.gatt.GattStatus
+import com.bluetoothsphere.android.blekit.gatt.PhyType
 
 abstract class BlePeripheralCallback {
     /**

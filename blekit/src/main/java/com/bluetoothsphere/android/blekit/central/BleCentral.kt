@@ -2,8 +2,8 @@ package com.bluetoothsphere.android.blekit.central
 
 import android.annotation.SuppressLint
 import android.bluetooth.BluetoothDevice
-import com.bluetoothsphere.android.blekit.WriteType
-import com.bluetoothsphere.android.blekit.connect.BondState
+import com.bluetoothsphere.android.blekit.gatt.WriteType
+import com.bluetoothsphere.android.blekit.gatt.BondState
 import java.util.Objects
 
 @SuppressLint("MissingPermission")

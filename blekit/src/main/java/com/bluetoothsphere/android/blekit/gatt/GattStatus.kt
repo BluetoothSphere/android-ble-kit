@@ -1,4 +1,4 @@
-package com.bluetoothsphere.android.blekit.connect
+package com.bluetoothsphere.android.blekit.gatt
 
 /**
  * The GattStatus describes the result of a GATT operation.

@@ -1,4 +1,4 @@
-package com.bluetoothsphere.android.blekit.connect
+package com.bluetoothsphere.android.blekit.gatt
 
 import android.annotation.SuppressLint
 import android.bluetooth.BluetoothAdapter
@@ -15,8 +15,8 @@ import android.os.Handler
 import android.os.Looper
 import com.bluetoothsphere.android.blekit.Logger
 import com.bluetoothsphere.android.blekit.central.BleCentralManagerCallback
-import com.bluetoothsphere.android.blekit.connect.BleScanManager.Companion.SCAN_RESTART_DELAY
-import com.bluetoothsphere.android.blekit.connect.BleScanManager.Companion.SCAN_TIMEOUT
+import com.bluetoothsphere.android.blekit.gatt.BleScanManager.Companion.SCAN_RESTART_DELAY
+import com.bluetoothsphere.android.blekit.gatt.BleScanManager.Companion.SCAN_TIMEOUT
 import com.bluetoothsphere.android.blekit.peripheral.BlePeripheral
 import com.bluetoothsphere.android.blekit.peripheral.BlePeripheralCallback
 import java.util.concurrent.ConcurrentHashMap

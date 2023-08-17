@@ -1,12 +1,12 @@
 package com.bluetoothsphere.android.blekit.central
 
 import android.bluetooth.le.ScanResult
-import com.bluetoothsphere.android.blekit.connect.HciStatus
-import com.bluetoothsphere.android.blekit.connect.ScanFailure
+import com.bluetoothsphere.android.blekit.gatt.HciStatus
+import com.bluetoothsphere.android.blekit.gatt.ScanFailure
 import com.bluetoothsphere.android.blekit.peripheral.BlePeripheral
 
 /**
- * Callbacks for the BluetoothCentralManager class
+ * Callbacks for the BleCentralManager class
  */
 abstract class BleCentralManagerCallback {
     /**
